@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Iain/GitHub/ToDoList/inc/Todo.h
+
+C:/Users/Iain/GitHub/ToDoList/inc/geometry/Point.h
+iostream
+-
+
+C:/Users/Iain/GitHub/ToDoList/main.cpp
+inc/Todo.h
+C:/Users/Iain/GitHub/ToDoList/inc/Todo.h
+inc/geometry/Point.h
+C:/Users/Iain/GitHub/ToDoList/inc/geometry/Point.h
+iostream
+-
+
+C:/Users/Iain/GitHub/ToDoList/src/Todo.cpp
+../inc/Todo.h
+C:/Users/Iain/GitHub/ToDoList/inc/Todo.h
+iostream
+-
+
+C:/Users/Iain/GitHub/ToDoList/src/geometry/Point.cpp
+../../inc/geometry/Point.h
+C:/Users/Iain/GitHub/ToDoList/inc/geometry/Point.h
+

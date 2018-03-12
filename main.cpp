@@ -9,7 +9,8 @@ int main(int argc, char** argv) {
     Point p;
     p.x = 10;
     p.y = 20;
-    cout << p.x << " " << p.y << endl;
+
+    cout << p << endl;
 
     return 0;
 }

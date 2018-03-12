@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Iain/GitHub/ToDoList/inc/Todo.h
+
+C:/Users/Iain/GitHub/ToDoList/src/Todo.cpp
+../inc/Todo.h
+C:/Users/Iain/GitHub/ToDoList/inc/Todo.h
+iostream
+-
+

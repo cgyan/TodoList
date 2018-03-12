@@ -1,0 +1,2 @@
+C:/Program_Files/mingw-w64/x86_64-6.3.0-posix-sjlj-rt_v5-rev2/mingw64/bin/ar.exe qc libtodoCore.a  CMakeFiles/todoCore.dir/__/src/Todo.cpp.obj
+C:/Program_Files/mingw-w64/x86_64-6.3.0-posix-sjlj-rt_v5-rev2/mingw64/bin/ranlib.exe libtodoCore.a
